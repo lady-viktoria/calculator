@@ -1,4 +1,4 @@
-# first-project
+# calculator
 
 ## Project setup
 ```
